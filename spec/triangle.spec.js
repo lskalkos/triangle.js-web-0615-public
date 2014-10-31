@@ -1,7 +1,5 @@
 'use strict';
 
-var Triangle = require('../lib/triangle');
-
 describe("Triangle", function() {
 
   it("equilateral triangles have equal sides", function() {
